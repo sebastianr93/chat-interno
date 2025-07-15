@@ -1,0 +1,11 @@
+C:\Users\Sebastian\Desktop\Ejemplo 38\EjemploServidor\bin\Debug\EjemploServidor.exe.config
+C:\Users\Sebastian\Desktop\Ejemplo 38\EjemploServidor\bin\Debug\EjemploServidor.exe
+C:\Users\Sebastian\Desktop\Ejemplo 38\EjemploServidor\bin\Debug\EjemploServidor.pdb
+C:\Users\Sebastian\Desktop\Ejemplo 38\EjemploServidor\obj\Debug\EjemploServidor.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Desktop\Ejemplo 38\EjemploServidor\obj\Debug\EjemploServidor.ServidorForm.resources
+C:\Users\Sebastian\Desktop\Ejemplo 38\EjemploServidor\obj\Debug\EjemploServidor.Properties.Resources.resources
+C:\Users\Sebastian\Desktop\Ejemplo 38\EjemploServidor\obj\Debug\EjemploServidor.csproj.GenerateResource.cache
+C:\Users\Sebastian\Desktop\Ejemplo 38\EjemploServidor\obj\Debug\EjemploServidor.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\Ejemplo 38\EjemploServidor\obj\Debug\EjemploServidor.exe
+C:\Users\Sebastian\Desktop\Ejemplo 38\EjemploServidor\obj\Debug\EjemploServidor.pdb
+C:\Users\Sebastian\Desktop\Ejemplo 38\EjemploServidor\obj\Debug\EjemploServidor.exe.config

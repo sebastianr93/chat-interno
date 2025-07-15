@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "EjemploServidor\\EjemploServidor.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "EjemploCliente\\EjemploCliente.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

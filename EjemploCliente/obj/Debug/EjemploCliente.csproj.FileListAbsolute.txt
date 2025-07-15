@@ -1,0 +1,11 @@
+C:\Users\Sebastian\Desktop\Ejemplo 38\EjemploCliente\bin\Debug\EjemploCliente.exe.config
+C:\Users\Sebastian\Desktop\Ejemplo 38\EjemploCliente\bin\Debug\EjemploCliente.exe
+C:\Users\Sebastian\Desktop\Ejemplo 38\EjemploCliente\bin\Debug\EjemploCliente.pdb
+C:\Users\Sebastian\Desktop\Ejemplo 38\EjemploCliente\obj\Debug\EjemploCliente.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Desktop\Ejemplo 38\EjemploCliente\obj\Debug\EjemploCliente.ClienteForm.resources
+C:\Users\Sebastian\Desktop\Ejemplo 38\EjemploCliente\obj\Debug\EjemploCliente.Properties.Resources.resources
+C:\Users\Sebastian\Desktop\Ejemplo 38\EjemploCliente\obj\Debug\EjemploCliente.csproj.GenerateResource.cache
+C:\Users\Sebastian\Desktop\Ejemplo 38\EjemploCliente\obj\Debug\EjemploCliente.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\Ejemplo 38\EjemploCliente\obj\Debug\EjemploCliente.exe
+C:\Users\Sebastian\Desktop\Ejemplo 38\EjemploCliente\obj\Debug\EjemploCliente.pdb
+C:\Users\Sebastian\Desktop\Ejemplo 38\EjemploCliente\obj\Debug\EjemploCliente.exe.config
